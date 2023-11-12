@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Kaung-Thant-Kyaw
+- 👋 Hello Everyone,
+-  I’m Kaung Thant Kyaw
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML,CSS and JavaScript
 - 📫 How to reach me ...[kaungthantkyaw112497@gmail.com]
