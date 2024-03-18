@@ -5,7 +5,7 @@ Hello there! I'm Kaung Thant Kyaw, an enthusiastic learner diving into the dynam
 ## About Me
 
 - **Name:** Kaung Thant Kyaw
-- **Profession:** Aspiring Web Developer
+- **Profession:** Aspiring Web Development Learner
 - **Learning Status:** Constantly evolving, perpetually in training
 
 ## Journey into Web Development
@@ -33,8 +33,6 @@ If you share a passion for web development, continuous learning, or just want to
 ## Extended Description
 
 In my pursuit of web development excellence, I believe in the significance of creating accessible, user-centric digital experiences. Beyond the lines of code, I am fascinated by the intersection of technology and creativity. Join me on this journey of innovation and let's shape the future of the web together!
-
-Thank you for joining me on this learning adventure. Let's build the web together!
 
 Happy coding! 🚀
 
