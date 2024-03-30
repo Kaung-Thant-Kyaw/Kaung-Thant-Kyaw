@@ -1,4 +1,4 @@
 - 👋 Hello, My name is Kaung Thant Kyaw, An Aspiring Learner.
 - 👀 I’m currently learning @php and @laravel.
-- 🌱 I’m also currently working with @laravel project.
+- 🌱 I’m also currently practicing with @laravel.
 - 📫 How to reach me ... kaungthantkyaw112497@gmail.com.
